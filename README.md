@@ -14,7 +14,9 @@ SOFTDEV PROJECTS 2014:
 
 ##3) API project
 	- Sunnam Quispe/Adam DeHovitz
-	- Uses the Tinder API as well as a Quote API to allow you to send relevant quotes to a person of interest
+	- Uses the locu API to choose a random restaurant in whatever area
+      you like (which you indicate using the search bar), then plays a
+      random song using 8tracks that has the name of the restaurant in it
 	- https://github.com/konceq/API-project
 
 #MINI PROJECTS
