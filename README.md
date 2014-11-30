@@ -5,7 +5,7 @@ SOFTDEV PROJECTS 2014:
 ##1) Language Interpreter/Data Scraping:
 	 - Sunnam Quispe/Genji/Sophie Gershon/Andreas Wang
 	 - Tries to answer the "who" and "where" questions by getting answers from	google
-	 - <https://github.com/genjinoguchi/softdev_homework_1>
+	 - [https://github.com/genjinoguchi/softdev_homework_1]
 
 ##2) Blogging Engine (SQL)
    	  - Sunnam Quispe/Eric Chan/Oliver Zhang/Brian Sapzhnikov
