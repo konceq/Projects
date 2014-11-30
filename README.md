@@ -5,19 +5,19 @@ SOFTDEV PROJECTS 2014:
 ##1) Language Interpreter/Data Scraping:
 	 - Sunnam Quispe/Genji/Sophie Gershon/Andreas Wang
 	 - Tries to answer the "who" and "where" questions by getting answers from	google
-	 - [Homework 1] (https://github.com/genjinoguchi/softdev_homework_1)
+	 - <https://github.com/genjinoguchi/softdev_homework_1>
 
 ##2) Blogging Engine (SQL)
    	  - Sunnam Quispe/Eric Chan/Oliver Zhang/Brian Sapzhnikov
 	  - Allows you to submit blog posts (with titles), view past blog posts, and leave comments
-	  - [BOSE-blog] (https://github.com/bsapozhnikov/BOSE-blog)
+	  - <https://github.com/bsapozhnikov/BOSE-blog>
 
 ##3) API project
 	- Sunnam Quispe/Adam DeHovitz
 	- Uses the locu API to choose a random restaurant in whatever area
       you like (which you indicate using the search bar), then plays a
       random song using 8tracks that has the name of the restaurant in it
-	- [API-project] (https://github.com/konceq/API-project)
+	- <https://github.com/konceq/API-project
 
 #MINI PROJECTS
 
