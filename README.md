@@ -23,12 +23,12 @@ SOFTDEV PROJECTS 2014:
 
 ##1) MongoDB Login
    	- Sunnam Quispe/Maria Vasilkin
-	- 6/login/sunnam_maria
+    - https://github.com/stuycs-softdev/submissions/tree/master/6/login/sunnam_maria
 
 ##2) Regexp
 	- Sunnam Quispe/Andreas Wang
-	- 6/regexp/Andreas_Sunnam
+    - https://github.com/stuycs-softdev/submissions/tree/master/6/regexp/Andreas_Sunnam
 
 ##3)  Intro-proj 1
 	- Sunnam Quispe/Anya Hargil
-	- 6/intro-proj1/Sunnam_Anya
+    - https://github.com/stuycs-softdev/submissions/tree/master/6/intro-proj1/Sunnam_Anya
