@@ -5,7 +5,7 @@ SOFTDEV PROJECTS 2014:
 ##1) Go-dega
     - Sunnam Quispe/Brian Sapozhnikov/Maria Vasilkin/Anya Hargil
     - In a big city like NYC, everyone has a hole-in-the-wall favorite place to eat, hang out, ect. This app provides a means for people to find and share fun and generally unknown places aroud the city.
-    - https://github.com/bsapozhnikov/Holes-In-The-Wall
+    - [https://github.com/bsapozhnikov/Holes-In-The-Wall.git](https://github.com/bsapozhnikov/Holes-In-The-Wall.git)
 
 ##2) Language Interpreter/Data Scraping:
 	 - Sunnam Quispe/Genji/Sophie Gershon/Andreas Wang
